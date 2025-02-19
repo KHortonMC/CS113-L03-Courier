@@ -1,4 +1,4 @@
-# Lab03 - Currier (Inventory Management)
+# Lab03 - Courier (Inventory Management)
 A simple gather items and drop them off text adventure
 
 ## Objective
